@@ -1,1 +1,7 @@
 fourth file text
+
+This file was modified in the another branch file
+
+if one 
+
+if 2
